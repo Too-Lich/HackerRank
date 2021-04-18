@@ -16,6 +16,9 @@ i.e., if there are two or more cities with same name arrange these by lexicograp
 */
 
 --Solution
+/*Дана таблица STATION, нужно написать запрос содержащий список CITY и STATE в лексографическом порядке городов и 
+штатов. Ниже приведено решение*/
+
 
 SELECT CITY, STATE 
 FROM STATION  
